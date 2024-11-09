@@ -14,4 +14,4 @@ BiFormer的核心是提出了一种名为Bi-Level Routing Attention（BRA）的�
 
 
 ## 参考
-本项目代码参考自：https://paperswithcode.com/paper/biformer-vision-transformer-with-bi-level
+本项目代码参考自：https://paperswithcode.com/paper/biformer-vision-transformer-with-bi-level.
